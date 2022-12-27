@@ -9,7 +9,7 @@ export default function Navbar(props) {
                 className="nav--logo_icon"
                 src="./images/react-icon-small.png"
             />
-            <h3 className="nav--logo_text">DarkmodeCardio</h3>
+            <h3 className="nav--logo_text">Marp.Dev</h3>
             
             <div 
                 className="toggler" 
