@@ -11,3 +11,5 @@ Intructions:
 In the project root:
 npm install, 
 npm run dev
+
+Try it live @ https://reactdarkmodecardio.netlify.app/
