@@ -5,12 +5,18 @@ import Main from "./components/Main"
 import Navbar from "./components/Navbar"
 
 export default function App() {
-  const [count, setCount] = useState(0)
+  const [darkMode, setdarkMode] = useState(false)
+
+  function handleToggle() {
+    console.log("toggled")
+    setdarkMode(prevdarkMode => !darkMode)
+  }
+  console.log(darkMode)
 
   return (
     <div className="App">
-      <Navbar />
-      <Main />
+      <Navbar darkMode={darkMode} toggleDarkMode={handleToggle}/>
+      <Main darkMode={darkMode}/>
     </div>
   )
 }
