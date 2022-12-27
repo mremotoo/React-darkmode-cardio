@@ -9,5 +9,5 @@ Hope you like it!
 Intructions:
 
 In the project root:
-npm install
+npm install, 
 npm run dev

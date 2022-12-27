@@ -8,10 +8,10 @@ export default function App() {
   const [darkMode, setdarkMode] = useState(false)
 
   function handleToggle() {
-    console.log("toggled")
+    // console.log("toggled")
     setdarkMode(prevdarkMode => !darkMode)
   }
-  console.log(darkMode)
+  // console.log(darkMode)
 
   return (
     <div className="App">

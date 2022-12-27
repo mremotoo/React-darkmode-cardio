@@ -10,6 +10,7 @@ export default function Main(props) {
                 <li>Also with useEffect</li>
                 <li>Really enjoying bulding this</li>
                 <li>Hope you like it!</li>
+                <li>Copyright Marp.Dev</li>
             </ul>
         </main>
     )
