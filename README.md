@@ -1,15 +1,21 @@
 # React-darkmode-cardio
 
-I built this with React + Vite
-Playing around with State, Props
-Also with useEffect
+## Built with:
+
+- HTML
+- CSS
+- JavaScript
+- React / JSX - JS library
+- Vite - Package manager
+
+Playing around with State, Props.
 Really enjoying bulding this
 Hope you like it!
 
-Intructions:
+**Intructions:**
 
 In the project root:
-npm install, 
-npm run dev
+- npm install
+- npm run dev
 
 Try it live @ https://reactdarkmodecardio.netlify.app/
