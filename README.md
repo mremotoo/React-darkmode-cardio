@@ -18,4 +18,4 @@ In the project root:
 - npm install
 - npm run dev
 
-Try it live @ https://reactdarkmodecardio.netlify.app/
+[Click to try me live](https://reactdarkmodecardio.netlify.app/)
